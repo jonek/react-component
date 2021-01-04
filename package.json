@@ -5,6 +5,7 @@
   "author": "jonek",
   "license": "MIT",
   "repository": "jonek/react-component",
+  "homepage": "https://jonek.github.io/react-component",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
