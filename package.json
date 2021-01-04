@@ -4,7 +4,7 @@
   "description": "A component to be used in a react-app.",
   "author": "jonek",
   "license": "MIT",
-  "repository": "jonek/component",
+  "repository": "jonek/react-component",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
