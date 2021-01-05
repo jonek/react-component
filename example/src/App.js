@@ -1,10 +1,10 @@
-import React from 'react'
-
-import { ExampleComponent } from 'component'
 import 'component/dist/index.css'
 
+import { ExampleComponent } from 'component'
+import React from 'react'
+
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <ExampleComponent className="yellow" text="Create React Library Example 😄" />
 }
 
 export default App
